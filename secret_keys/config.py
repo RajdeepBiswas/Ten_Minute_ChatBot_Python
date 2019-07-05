@@ -1,0 +1,3 @@
+HOST = "<HOST>";
+ENDPOINT_KEY = "<ENDPOINT_KEY>";
+ROUTE = "<ROUTE>";
